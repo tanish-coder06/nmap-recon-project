@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Fri Nov 21 11:59:38 2025 as: /usr/lib/nmap/nmap --privileged -A -oG scan.gnmap 192.168.1.18
+Host: 192.168.1.18 ()	Status: Up
+Host: 192.168.1.18 ()	Ports: 49152/open/tcp//tcpwrapped///, 62078/open/tcp//tcpwrapped///	Ignored State: closed (998)	OS: Apple iOS 15.0 - 15.6 (Darwin 21.1.0 - 21.6.0)	Seq Index: 261	IP ID Seq: All zeros
+# Nmap done at Fri Nov 21 11:59:46 2025 -- 1 IP address (1 host up) scanned in 7.60 seconds
