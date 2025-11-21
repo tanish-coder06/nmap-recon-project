@@ -17,11 +17,11 @@ Nmap (Network Mapper)
 Kali Linux / Linux Terminal
 
 3. Commands Used
-# basic scan --> nmap <target-ip>
-# Service & version detection --> nmap -sV <target-ip>
-# OS detection --> nmap -O <target-ip>
-# Aggressive full recon (recommended) --> nmap -A <target-ip>
-# Save results in 3 formats (TXT, GNMAP, XML) --> nmap -sV -O -oA scan <target-ip>
+basic scan --> nmap <target-ip>
+Service & version detection --> nmap -sV <target-ip>
+OS detection --> nmap -O <target-ip>
+Aggressive full recon (recommended) --> nmap -A <target-ip>
+Save results in 3 formats (TXT, GNMAP, XML) --> nmap -sV -O -oA scan <target-ip>
 
 4. Output Files Description
 File              purpose
